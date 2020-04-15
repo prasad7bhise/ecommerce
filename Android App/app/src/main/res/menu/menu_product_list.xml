@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="cart"
+        android:id="@+id/menuCart"
+        android:icon="@drawable/ic_cart"
+        app:showAsAction="always"></item>
+
+
+    <item
+        android:title="refresh"
+        android:id="@+id/menuRefresh"
+        android:icon="@drawable/ic_refresh"
+        app:showAsAction="always"></item>
+
+
+    <item
+
+        android:title="Logout"
+        android:id="@+id/menuLogout">
+
+    </item>
+</menu>
